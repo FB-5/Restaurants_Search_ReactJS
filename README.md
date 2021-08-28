@@ -12,7 +12,7 @@ Desenvolvimento:
 - redux, Skeleton para loading e react-lottie; 
 - deploy com Netlify https://app.netlify.com/.
 
-#PROBLEMAS COM A API
+# PROBLEMAS COM A API
 
 ![Screenshot_2](https://github.com/FB-5/Restaurants_Search_ReactJS/blob/main/Screenshot_1.jpg)
 
